@@ -3,6 +3,16 @@
 ## 1. Overview
 Built a fully automated Python-based ETL pipeline to extract, clean, and normalize global hospital bed statistics from a complex Wikipedia table. The cleaned dataset was then loaded into a relational database for advanced exploratory analysis using SQL.
 
+![Top and Bottom 10 Countries by Hospital Beds (Data Table)](webscrapping_1.png)
+
+![Top 10 Countries by Beds per 1000 Bar Chart](webscrapping_2.png)
+
+![Distribution of Hospital Beds per 1000 Histogram](webscrapping_3.png)
+
+![Hospital Bed Capacity Trend Over Time Line Plot](webscrapping_4.png)
+
+![SQL Window Function Output Showing Longitudinal Bed Change](webscrapping_5.png)
+
 ### 🎯 Goal
 To create a robust, consistent, and up-to-date dataset for comparative analysis of healthcare infrastructure across various countries, specifically focusing on beds per 1000 population over time.
 
